@@ -24,6 +24,7 @@ EulerBeats is an ultra scarce NFT collection of 27 generative art + music origin
 ](https://dappradar.com/blog/author/robert) as *DappRadar*
 * [EulerBeats Trailblazes On-Chain Music 🎵](https://nft.substack.com/p/eulerbeats-trailblazes-on-chain-music) by [William M. Peaster](https://nft.substack.com/people/3972632-william-m-peaster) as *Tokensmart*
 * [EulerBeats could overturn the Music Industry and birth a Record Label DAO with its DeFi economics](https://micahwhite.medium.com/eulerbeats-could-overturn-the-music-industry-and-birth-a-record-label-dao-with-its-defi-economics-2a8714ffae85) by [Micah White, PhD](https://micahwhite.medium.com/)
+* [EulerBeats Music NFT Already Sold for $458.000](https://www.playtoearn.online/2021/02/23/euler-beats-music-nft-already-sold-for-458-000/) (2021-02-23) by [Robert Hoogendoorn](https://www.playtoearn.online/author/nederobgmail-com/)
 
 ## Tweets
 
