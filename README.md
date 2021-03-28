@@ -14,9 +14,15 @@ EulerBeats is an ultra scarce NFT collection of 27 generative art + music origin
 ## Tools
 
 * [EulerBeats Genesis LP - Price Bonding Curve](https://www.desmos.com/calculator/rvrqijjkuq) - Chart and table
-* [Dune Analytics Dashboard](https://duneanalytics.com/chubbyavo/eulerbeats_2) by [@ChubbyAvocado](https://twitter.com/ChubbyAvocado)
-* [Etherscan Analytics](https://etherscan.io/address/0x8754F54074400CE745a7CEddC928FB1b7E985eD6#analytics)
+* [Dune Analytics Dashboard - General](https://duneanalytics.com/chubbyavo/eulerbeats_2) by [@ChubbyAvocado](https://twitter.com/ChubbyAvocado)
+* [Dune Analytics Dashboard - Per track](https://duneanalytics.com/chubbyavo/eulerbeats_1) by [@ChubbyAvocado](https://twitter.com/ChubbyAvocado)
+* [Etherscan Analytics - Genesis](https://etherscan.io/address/0x8754F54074400CE745a7CEddC928FB1b7E985eD6#analytics)
+* [Etherscan Analytics - Enigma ](https://etherscan.io/address/0xa98771a46Dcb34B34cDAD5355718F8a97C8E603e#analytics)
 * [Dapp Radar](https://dappradar.com/ethereum/collectibles/euler-beats)
+
+## Community
+
+* [Mathematical Analysis of EulerBeats Genesis Art](https://docs.google.com/document/d/1ojXf-izhDxoReCGRytfk2fDov4heEkl9r2UmULX3yI4/edit)
 
 ## Articles
 
