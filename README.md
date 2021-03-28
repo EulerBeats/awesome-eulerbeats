@@ -1,5 +1,9 @@
 # Awesome EulerBeats
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
 > A curated list of EulerBeats resources.
 
 EulerBeats is an ultra scarce NFT collection of 27 generative art + music originals generated based on Euler's mathematical discoveries.
