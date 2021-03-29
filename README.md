@@ -38,6 +38,7 @@ EulerBeats is an ultra scarce NFT collection of 27 generative art + music origin
 * 2021-03-01: [EulerBeats Impresses As Beeple’s NFT Artwork Sold for $6.6 Million](https://dappradar.com/blog/euler-beats-impresses-as-beeples-nft-artwork-sold-for-6-6-million) by [Robert Hoogendoorn](https://dappradar.com/blog/author/robert) at *DappRadar*
 * 2021-03-02: [Can NFTs Crack Royalties And Give More Value To Artists?](https://consensys.net/blog/blockchain-explained/can-nfts-crack-royalties-and-give-more-value-to-artists/) by James Beck as [ConsenSys Blog](https://consensys.net/blog/)
 * 2021-03-02: [EulerBeats vs “BSCBeats” and a dash of Walter Benjamin](https://mariapaulafernandezneglia.medium.com/eulerbeats-vs-bscbeats-and-a-dash-of-walter-benjamin-f111a57cb6ea) by [Maria Paula Fernández](https://mariapaulafernandezneglia.medium.com/)
+* 2021-03-16: [EulerBeats and The Future of NFTs](https://www.one37pm.com/nft/music/eulerbeats-nfts-enigma) by [Matthew Chaim](https://www.one37pm.com/author/matthew-chaim) at *ONE37pm*
 
 ## Tweets
 
@@ -49,7 +50,11 @@ EulerBeats is an ultra scarce NFT collection of 27 generative art + music origin
 
 * [*I rated all @eulerbeats from 1-10 with a word or two to describe each [...]*](https://twitter.com/ViciosoEdgar/status/1362499360479674370) - Audio inspired rating by [@ViciosoEdgar](https://twitter.com/ViciosoEdgar)
 
+* [*Enigma review on first listen [...]*](https://twitter.com/ViciosoEdgar/status/1375510648289779715) - Art+Music inspired ratings by [@ViciosoEdgar](https://twitter.com/ViciosoEdgar)
+
 * [*Here is the guide and infographics how to identify your boxfish. All EulerBeats are great, but boxfish EulerBeats are awesome*](https://twitter.com/BoxfishB/status/1364333789980340229) - Visual inspired classification by [@BoxfishB](https://twitter.com/BoxfishB)
+
+* [*I've had a go at figuring out the time signature for each of the amazing Eulerbeats. [...]*] (https://twitter.com/0xbandicoot/status/1369290611107434502) - Genesis time signatures.
 
 ## Remix
 
