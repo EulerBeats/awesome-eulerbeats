@@ -22,6 +22,7 @@ EulerBeats is an ultra scarce NFT collection of 27 generative art + music origin
 
 ## Community
 
+* [The Genesis Letter](https://nfthusiast.substack.com/) - Unofficial newsletter by `@NFThusiast LP17`
 * [Mathematical Analysis of EulerBeats Genesis Art](https://docs.google.com/document/d/1ojXf-izhDxoReCGRytfk2fDov4heEkl9r2UmULX3yI4/edit)
 
 ## Articles
@@ -33,6 +34,10 @@ EulerBeats is an ultra scarce NFT collection of 27 generative art + music origin
 * [EulerBeats Trailblazes On-Chain Music 🎵](https://nft.substack.com/p/eulerbeats-trailblazes-on-chain-music) by [William M. Peaster](https://nft.substack.com/people/3972632-william-m-peaster) as *Tokensmart*
 * [EulerBeats could overturn the Music Industry and birth a Record Label DAO with its DeFi economics](https://micahwhite.medium.com/eulerbeats-could-overturn-the-music-industry-and-birth-a-record-label-dao-with-its-defi-economics-2a8714ffae85) by [Micah White, PhD](https://micahwhite.medium.com/)
 * [EulerBeats Music NFT Already Sold for $458.000](https://www.playtoearn.online/2021/02/23/euler-beats-music-nft-already-sold-for-458-000/) (2021-02-23) by [Robert Hoogendoorn](https://www.playtoearn.online/author/nederobgmail-com/)
+* [Introducing The Euler Beats NFT20 Pool](https://medium.com/nft20/introducing-the-euler-beats-nfpool-a81b378de997) (2021-02-27) by [Very Nifty](https://verynifty.medium.com/)
+* [Can NFTs Crack Royalties And Give More Value To Artists?](https://consensys.net/blog/blockchain-explained/can-nfts-crack-royalties-and-give-more-value-to-artists/) (2021-03-02) by James Beck as [ConsenSys Blog](https://consensys.net/blog/)
+* [EulerBeats Impresses As Beeple’s NFT Artwork Sold for $6.6 Million](https://dappradar.com/blog/euler-beats-impresses-as-beeples-nft-artwork-sold-for-6-6-million) (2021-03-01) by [Robert Hoogendoorn](https://dappradar.com/blog/author/robert) at *DappRadar*
+* [EulerBeats vs “BSCBeats” and a dash of Walter Benjamin](https://mariapaulafernandezneglia.medium.com/eulerbeats-vs-bscbeats-and-a-dash-of-walter-benjamin-f111a57cb6ea) (2021-03-02) by [Maria Paula Fernández](https://mariapaulafernandezneglia.medium.com/)
 
 ## Tweets
 
